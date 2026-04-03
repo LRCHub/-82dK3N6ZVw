@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "you look like you love me",
+  "base_artist": "Ella Langley and Riley Green",
+  "createdAt": "2026-04-03T14:31:04.943247Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Ella Langley",
+      "has_synced": true,
+      "path": "select/01_you_look_like_you_love_me_Ella_Langley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Ella Langley",
+      "has_synced": false,
+      "path": "select/02_you_look_like_you_love_me_Ella_Langley.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/03_you_look_like_you_love_me_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You Look Like You Love Me",
+      "artist": "Ella Langley",
+      "has_synced": true,
+      "path": "select/04_You_Look_Like_You_Love_Me_Ella_Langley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Ella Langley",
+      "has_synced": true,
+      "path": "select/05_you_look_like_you_love_me_Ella_Langley.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Ella Langley",
+      "has_synced": true,
+      "path": "select/06_you_look_like_you_love_me_Ella_Langley.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Ella Langley和Riley Green",
+      "has_synced": true,
+      "path": "select/07_you_look_like_you_love_me_Ella_Langley和Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Ella Langley & Riley Green",
+      "has_synced": true,
+      "path": "select/08_you_look_like_you_love_me_Ella_Langley_&_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "ella langley",
+      "has_synced": true,
+      "path": "select/09_you_look_like_you_love_me_ella_langley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Riley Green",
+      "has_synced": true,
+      "path": "select/10_you_look_like_you_love_me_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Ella Langley • Riley Green",
+      "has_synced": true,
+      "path": "select/11_you_look_like_you_love_me_Ella_Langley_•_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Ella Langley; Riley Green",
+      "has_synced": true,
+      "path": "select/12_you_look_like_you_love_me_Ella_Langley;_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Ella Langley, Riley Green",
+      "has_synced": true,
+      "path": "select/13_you_look_like_you_love_me_Ella_Langley,_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Ella Langley & Riley Green",
+      "has_synced": true,
+      "path": "select/14_you_look_like_you_love_me_Ella_Langley_&_Riley_Green.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "you look like you love me",
+      "artist": "Riley Green & ella langley",
+      "has_synced": false,
+      "path": "select/15_you_look_like_you_love_me_Riley_Green_&_ella_langley.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Love You Like You Love Me",
+      "artist": "General Ghost",
+      "has_synced": false,
+      "path": "select/16_Love_You_Like_You_Love_Me_General_Ghost.txt"
+    }
+  ]
+}
